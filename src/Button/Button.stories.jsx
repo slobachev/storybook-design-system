@@ -1,9 +1,10 @@
 import styled from '@emotion/styled';
 
 import { Button } from './Button';
-import { Icon } from '../Icon/Icon';
-import { StoryLinkWrapper } from '../LinkWrapper';
 
+import { Icon } from '../Icon/Icon';
+
+import { StoryLinkWrapper } from '../LinkWrapper';
 
 const CustomButton = styled.button`
   border: 1px solid green;
