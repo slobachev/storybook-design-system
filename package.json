@@ -1,7 +1,7 @@
 {
-  "name": "storybook-design-system",
+  "name": "@slobachev/storybook-design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -83,5 +83,8 @@
   },
   "dependencies": {
     "@storybook/test": "^8.0.0"
-  }
+  },
+  "description": "Storybook design system",
+  "repository": "https://github.com/slobachev/storybook-design-system.git",
+  "author": "slobachev <sergeylobachev@outlook.com>"
 }
