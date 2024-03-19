@@ -1,5 +1,5 @@
 {
-  "name": "@slobachev/storybook-design-system",
+  "name": "@sergeylobachev/storybook-design-system",
   "version": "0.1.0",
   "private": false,
   "main": "dist/cjs/index.js",
